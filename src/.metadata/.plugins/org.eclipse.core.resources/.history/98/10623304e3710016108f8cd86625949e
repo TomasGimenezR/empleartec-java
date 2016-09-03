@@ -1,0 +1,16 @@
+package operaciones;
+
+public class Resta extends Operacion{
+
+	public Resta(int num1, int num2) {
+		super(num1, num2);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public int calcular() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
